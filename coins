@@ -16491,7 +16491,8 @@
         "decimals": 6,
         "denom": "unucl",
         "account_prefix": "nuc",
-        "chain_id": "nucleus-3"
+        "chain_id": "nucleus-3",
+        "priority_gas_prices": [0.2, 0.25, 0.3]
       }
     },
     "derivation_path": "m/44'/118'"
